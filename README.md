@@ -6,8 +6,8 @@
 
 ## 项目截图
 
-[alt 截屏](./images/1.png)
-[alt 截屏](./images/2.png)
+![alt 截屏](./images/1.png)
+![alt 截屏](./images/2.png)
 
 ## 使用
 
